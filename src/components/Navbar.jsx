@@ -21,7 +21,7 @@ const Navbar = () => {
           <li>Planos</li>
           <li>Entrar</li>
         </ul>
-        <span><button>CADASTRE-SE</button></span>
+        <span><button className='button-navbar'>CADASTRE-SE</button></span>
       </div>
     </nav>
     )

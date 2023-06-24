@@ -15,9 +15,10 @@ ul li{
   padding: 12px;
 }
 
-button{
+.button-navbar{
   cursor: pointer;
 }
+
 span{
   display: flex;
   align-items: center;
@@ -27,7 +28,7 @@ div img{
   padding: 5px 30px;
 }
 
-button{
+.button-navbar{
   padding:  8px 30px;
   margin: 0 30px;
   background-color: #1b2653;
