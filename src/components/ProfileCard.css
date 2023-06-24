@@ -1,0 +1,55 @@
+.container{
+  width: 400px;
+  height: 350px;
+  border: #000 1px solid;
+  border-radius: 5px;
+}
+
+.card img{
+  width: 150px;
+ height: 150px;
+}
+
+u{
+  font-size: 12px;
+  color: #FE6613;
+  cursor: pointer;
+}
+
+span{
+  font-size: 12px;
+  color: #FE6613;
+  cursor: pointer;
+}
+
+p{
+  font-size: 14px;
+}
+
+.card{
+  margin: 10px 10px;
+  border: #000 1px solid;
+  border-radius: 5px;
+}
+
+.indivual-backgroundM{
+  background: url('../assets/mulher.jpg');
+  background-repeat: no-repeat;
+background-size: cover;
+}
+.indivual-backgroundH{
+  background: url('../assets/homem.jpg');
+  background-repeat: no-repeat;
+background-size: cover;
+}
+
+.individual-card{
+  display: flex;
+}
+
+.information-cards{
+  display: flex;
+  flex-direction: column;
+ justify-content: center;
+  justify-content: center;
+}
